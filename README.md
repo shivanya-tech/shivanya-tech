@@ -1,6 +1,6 @@
 ## Hi👋, I'm Shivani Vishwakarma
 
-**Data Analyst | Aspiring Data Scientist | Web-App Builder**
+**Data Analyst | Aspiring Data Scientist | Tech Writer**
 
 Welcome to my GitHub! I love combining data, Python, and real-world problem-solving to build meaningful projects — and I’m learning something new every day.
 ## 💻 Tech Stack
