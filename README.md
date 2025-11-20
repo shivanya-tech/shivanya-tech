@@ -1,16 +1,37 @@
-## Hi there 👋
+##👋 Hi, I'm Shivani Vishwakarma
 
-<!--
-**shivanya-tech/shivanya-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Aspiring AI Developer | Web-App Builder**
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I love combining data, Python, and web development to build meaningful projects — and learning every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+## 💻 Tech Stack
+
+| Area | Technologies |
+|---|---|
+| **Programming** | Python, JavaScript, SQL |
+| **Data / Analytics** | Pandas, NumPy, Seaborn, Matplotlib |
+| **Web** | Flask, HTML, CSS, Bootstrap |
+| **Tools** | Git, GitHub, VS Code, Jupyter Notebooks |
+
+## 🚀 Featured Projects
+
+- **Movie Data Analysis** – Exploratory data analysis on a movie dataset; trends, ratings, and visuals.  
+- **Parking App** – Web-based parking management system built with Flask.  
+- **IBM Python Project** – Showcases core Python skills: data manipulation, file I/O, and testing.
+
+- 🔭 I’m currently working on
+- A **Hospital managment App** built with Flask (college project) 
+- Data-analyses & visualizations using **Pandas** & **Matplotlib**  
+- Short-form AI-powered tools / automations (streamlit)
+## 📊 GitHub Stats
+
+![Shivani’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanya-tech&show_icons=true&theme=algolia)
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
