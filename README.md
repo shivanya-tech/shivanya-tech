@@ -1,4 +1,4 @@
-##👋 Hi, I'm Shivani Vishwakarma
+## Hi👋, I'm Shivani Vishwakarma
 
 **Data Analyst | Aspiring AI Developer | Web-App Builder**
 
@@ -8,7 +8,7 @@ Welcome to my GitHub! I love combining data, Python, and web development to buil
 
 | Area | Technologies |
 |---|---|
-| **Programming** | Python, JavaScript, SQL |
+| **Programming** | Python, SQL |
 | **Data / Analytics** | Pandas, NumPy, Seaborn, Matplotlib |
 | **Web** | Flask, HTML, CSS, Bootstrap |
 | **Tools** | Git, GitHub, VS Code, Jupyter Notebooks |
@@ -19,14 +19,15 @@ Welcome to my GitHub! I love combining data, Python, and web development to buil
 - **Parking App** – Web-based parking management system built with Flask.  
 - **IBM Python Project** – Showcases core Python skills: data manipulation, file I/O, and testing.
 
-- 🔭 I’m currently working on
+## I’m currently working on 🔭
 - A **Hospital managment App** built with Flask (college project) 
 - Data-analyses & visualizations using **Pandas** & **Matplotlib**  
 - Short-form AI-powered tools / automations (streamlit)
+  
 ## 📊 GitHub Stats
 
 ![Shivani’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanya-tech&show_icons=true&theme=algolia)
-
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
