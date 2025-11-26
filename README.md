@@ -1,7 +1,7 @@
 ## Hi👋, I'm Shivani Vishwakarma
 📝 New Blog Published!
 Binary Trees, Heaps, MST & Shortest Path Algorithms  
-🔗 Read here: [new blog (https://dsa-basic-things-to-know.hashnode.dev/)]
+🔗 Read here: [new blog] (https://dsa-basic-things-to-know.hashnode.dev/)
 
 **Data Analyst | Aspiring Data Scientist | Tech Writer**
 
